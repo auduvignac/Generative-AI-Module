@@ -1,0 +1,3 @@
+[submodule "travel-ai-translator"]
+	path = travel-ai-translator
+	url = https://github.com/End2EndAI/travel-ai-translator
